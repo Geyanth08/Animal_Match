@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Animal_Match/static/css/main.342cb2a9.chunk.css",
+    "main.js": "/Animal_Match/static/js/main.587e2e2d.chunk.js",
+    "main.js.map": "/Animal_Match/static/js/main.587e2e2d.chunk.js.map",
+    "runtime-main.js": "/Animal_Match/static/js/runtime-main.e5a7b133.js",
+    "runtime-main.js.map": "/Animal_Match/static/js/runtime-main.e5a7b133.js.map",
+    "static/js/2.9277b2d3.chunk.js": "/Animal_Match/static/js/2.9277b2d3.chunk.js",
+    "static/js/2.9277b2d3.chunk.js.map": "/Animal_Match/static/js/2.9277b2d3.chunk.js.map",
+    "index.html": "/Animal_Match/index.html",
+    "static/css/main.342cb2a9.chunk.css.map": "/Animal_Match/static/css/main.342cb2a9.chunk.css.map",
+    "static/js/2.9277b2d3.chunk.js.LICENSE.txt": "/Animal_Match/static/js/2.9277b2d3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5a7b133.js",
+    "static/js/2.9277b2d3.chunk.js",
+    "static/css/main.342cb2a9.chunk.css",
+    "static/js/main.587e2e2d.chunk.js"
+  ]
+}
