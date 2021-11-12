@@ -1,5 +1,6 @@
 import React from 'react';
 import './Card.css';
+import cardBack from '../img/card-back.jpg';
 
 function Card({cardInfo, handleChoices, flip, disabled }) {
 
@@ -20,7 +21,7 @@ function Card({cardInfo, handleChoices, flip, disabled }) {
                 className="card__front" 
               />
               <img 
-                src="/img/card-back.jpg" 
+                src={cardBack}
                 alt="card back" 
                 className="card__back" 
                 onClick={handleClick} 
